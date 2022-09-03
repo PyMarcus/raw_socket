@@ -4,7 +4,7 @@ de pacote pela rede(ou seja, assim que sai da placa
 de rede, ele pode ir direto ao usuário, ao invés de se
 guir a pilha de protocolos).
 
-Para isso, usa-se a interface AF_PACKET, que é de baixo
+Para isso, utiliza-se a interface AF_PACKET, que é de baixo
 nível para se trabalhar com pacotes vindos da rede.
 Todos os pacotes estarão íntegros com seus cabeçalhos
 e segmentos de dados.
